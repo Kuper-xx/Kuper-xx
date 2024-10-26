@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Kuper-xx </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Juani_Kaupert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/juan-kaupert/) 
 
 
@@ -65,3 +66,7 @@ I also consider myself a tech-optimist, so I also love Bitcoin and cryptocurrenc
   <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuper-xx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<hr/>
+
+[![](https://visitcount.itsvg.in/api?id=kuper_xx&icon=0&color=0)](https://visitcount.itsvg.in)
