@@ -61,7 +61,7 @@ I also consider myself a tech-optimist, so I also love Bitcoin and cryptocurrenc
 </a>
 
 <h2>Github stats:</h2> 
-
+<a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Kuper-xx Github Stats" src="https://camo.githubusercontent.com/4de63f621915798687f19bdc9b26d7dcc916aeede87a65e31c14bf804988232c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b757065722d78782673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kuper-xx&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;"></a>
   <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuper-xx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
