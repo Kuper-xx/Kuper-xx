@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Juani_Kaupert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/juan-kaupert/) 
 
 
-<img align="right" width=300px alt="Kuper" src="https://fawzi.zone/wp-content/uploads/2015/07/ac1de-spaceinvaders.gif" />
+<img align="right" width=250px alt="Kuper" src="https://fawzi.zone/wp-content/uploads/2015/07/ac1de-spaceinvaders.gif" />
 
 👨‍💻&nbsp;***About me***
 
