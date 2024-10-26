@@ -62,7 +62,6 @@ I also consider myself a tech-optimist, so I also love Bitcoin and cryptocurrenc
 
 <h2>Github stats:</h2> 
 
-<a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Kuper-xx Github Stats" src="https://github-readme-stats.vercel.app/api?username=kuper-xx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuper-xx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
