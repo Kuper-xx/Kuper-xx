@@ -11,7 +11,7 @@
 
 Hello, my nickname is Kuper-xx on GitHub, and on other social media, it’s kuper_xx, I’m from Argentina. I consider myself a tech-enthusiast. I love programming. I think this expresses a likely desire for automation with symbols, which makes it easy to see why I like data science and hacking, the description of information, and control over it.
 
-I also consider myself a tech-optimist, so I also love Bitcoin and cryptocurrencies. I think this is a path to the future. I don’t know if it’s for day-to-day usage, but yes to change things in the future, no matter what.
+I also consider myself a tech-optimist.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills Include 
 
